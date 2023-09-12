@@ -3,7 +3,7 @@
 * 90后宅小朱
 * 坐标： 济南
 * B站：RD烟雨
-* 组织：ant-design-vue团队成员
+* 组织：ant-design-vue团队成员 Antdv Pro作者
 * QQ群：939791772
 
 
